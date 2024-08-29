@@ -1,61 +1,170 @@
 {
   "allVideos": [
-    
     {
-      "id": "7",
-      "name": "Guruvayoor Ambalanadayil",
-      "url": "https://img.onmanorama.com/content/dam/mm/en/entertainment/entertainment-news/images/2024/6/25/guruvayoor-ambalanadayil.jpg.transform/576x300/image.jpg",
-      "link": "https://www.youtube.com/embed/IEm9X8yvivk"
+      "id": "1",
+      "name": "SECOND CHANCE ",
+      "url": "https://i.ytimg.com/vi/cHBunT3n-f4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDz2A30TguxT95GB5da37XS_e90ZQ",
+      "link": "https://www.youtube.com/embed/Kc1Nqc1RASc"
     },
     {
-      "id": "8",
+      "id": "2",
+      "name": "ARM",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxdgdC0SviPWOEOSY2vPXP9x9u8I477UdluQ&s",
+      "link": "https://www.youtube.com/embed/rFgS10V8908"
+    },
+    {
+      "id": " 3",
+      "name": "Kondal",
+      "url": "https://s3.ap-south-1.amazonaws.com/media.thesouthfirst.com/wp-content/uploads/2024/06/Kondal-teaser.jpg",
+      "link": "https://www.youtube.com/embed/33VDM43XeyU"
+    },
+    {
+      "id": "4",
       "name": "Vaazha ",
-      "url": "https://img.onmanorama.com/content/dam/mm/en/entertainment/movie-reviews/images/2024/8/17/vazha.jpg.transform/576x300/image.jpg",
+      "url": "https://m.media-amazon.com/images/M/MV5BNTM4NWRmNTQtOWI3Ni00ZDVjLWExN2YtZjk5YmY1ZDk2ODAwXkEyXkFqcGc@._V1_.jpg",
       "link": "https://www.youtube.com/embed/EdsxhVLDLb4"
     },
     {
-      "id": "9",
-      "name": "Nunakkuzhi ",
-      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRurYXuWJtUxXTYg53hb2rAjjG2_eybjzCs2g&s",
-      "link": "https://www.youtube.com/embed/Ek78m6BOGTQ"
-    },
-    {
-      "id": "10",
-      "name": "Kishkindha Kaandam",
-      "url": "https://m.media-amazon.com/images/M/MV5BYWRhMWRjNzEtYmJkYi00NzcwLTk1YWYtYzk4NzRiOTlhODMzXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_FMjpg_UX1000_.jpg",
-      "link": "https://www.youtube.com/embed/n30gf3Gz4Ok"
-    },
-    {
-      "id": "11",
+      "id": "5",
       "name": "Bazooka",
-      "url": "https://upload.wikimedia.org/wikipedia/en/a/a9/Bazooka_poster.jpeg",
+      "url": "https://i.gadgets360cdn.com/large/bazooka_twitter_mammoothy_1681196882656.jpg",
       "link": "https://www.youtube.com/embed/ru5Cku2t1JU"
     },
     {
-      "id": "12",
+      "id": "6",
       "name": "Hunt",
-      "url": "https://m.media-amazon.com/images/M/MV5BMGYyYjJjMzUtZTNlMi00ODliLWI2NTMtODExOTg3YWU2NTE1XkEyXkFqcGdeQXVyNDc2NzU1MTA@._V1_FMjpg_UX1000_.jpg",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4t2Bu9-RkNSfZoRhJy-Pt6Os8M5J0J4Xofg&s",
       "link": "https://www.youtube.com/embed/DNLqr4mhEWo"
-    },
-    {
-      "id": "13",
-      "name": "Mr & Mrs Bachelor",
-      "url": "https://th-i.thgim.com/public/entertainment/movies/nbismr/article68425369.ece/alternates/FREE_1200/Anaswara%20Rajan.jpeg",
-      "link": "https://www.youtube.com/embed/ofQ0dhlBVqU"
-    },
-    {
-      "id": "15",
-      "name": " Thaanara",
-      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9HDoGXyoxJCHD-d7aQrs6Mq_gwG1SwFxrjw&s",
-      "link": "https://www.youtube.com/embed/yhDwXSAs7QY"
-    },
-    {
-      "id": "18",
-      "name": "Bharathanatyam",
-      "url": "https://www.zonkerala.com/movies/gallery/bharatanatyam/bharatanatyam-stills-399.jpg",
-      "link": "https://www.youtube.com/embed/lVnHxwWftxw"
     }
   ],
-  "history": [],
-  "category": []
+  "history": [
+    {
+      "name": "Guruvayoor Ambalanadayil",
+      "link": "https://www.youtube.com/embed/IEm9X8yvivk",
+      "timeStamp": "08/21/2024, 03:10:57 PM",
+      "id": 2
+    },
+    {
+      "name": "Nunakkuzhi ",
+      "link": "https://www.youtube.com/embed/Ek78m6BOGTQ",
+      "timeStamp": "08/21/2024, 03:10:59 PM",
+      "id": 3
+    },
+    {
+      "name": "Hunt",
+      "link": "https://www.youtube.com/embed/DNLqr4mhEWo",
+      "timeStamp": "08/22/2024, 02:02:53 PM",
+      "id": 7
+    },
+    {
+      "name": "Vaazha ",
+      "link": "https://www.youtube.com/embed/EdsxhVLDLb4",
+      "timeStamp": "08/22/2024, 02:24:16 PM",
+      "id": 8
+    },
+    {
+      "name": "Bazooka",
+      "link": "https://www.youtube.com/embed/ru5Cku2t1JU",
+      "timeStamp": "08/22/2024, 02:24:45 PM",
+      "id": 9
+    },
+    {
+      "name": "Vaazha ",
+      "link": "https://www.youtube.com/embed/EdsxhVLDLb4",
+      "timeStamp": "08/22/2024, 02:39:26 PM",
+      "id": 10
+    },
+    {
+      "name": "Vaazha ",
+      "link": "https://www.youtube.com/embed/EdsxhVLDLb4",
+      "timeStamp": "08/22/2024, 02:39:31 PM",
+      "id": 11
+    },
+    {
+      "name": "Barroz",
+      "link": "https://www.youtube.com/embed/4HaPjvSGepI",
+      "timeStamp": "08/26/2024, 03:06:59 PM",
+      "id": 12
+    },
+    {
+      "name": "SECOND CHANCE ",
+      "link": "https://www.youtube.com/embed/Kc1Nqc1RASc",
+      "timeStamp": "08/27/2024, 06:10:26 PM",
+      "id": 13
+    },
+    {
+      "name": "SECOND CHANCE ",
+      "link": "https://www.youtube.com/embed/Kc1Nqc1RASc",
+      "timeStamp": "08/27/2024, 06:52:04 PM",
+      "id": 14
+    },
+    {
+      "name": "SECOND CHANCE ",
+      "link": "https://www.youtube.com/embed/Kc1Nqc1RASc",
+      "timeStamp": "08/27/2024, 09:19:40 PM",
+      "id": 15
+    },
+    {
+      "name": " The Lord of the Rings",
+      "link": "https://www.youtube.com/embed/gCUg6Td5fgQ",
+      "timeStamp": "08/27/2024, 09:19:42 PM",
+      "id": 16
+    },
+    {
+      "name": "SECOND CHANCE ",
+      "link": "https://www.youtube.com/embed/Kc1Nqc1RASc",
+      "timeStamp": "08/27/2024, 09:19:49 PM",
+      "id": 17
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "categoryName": "Romance",
+      "allVideos": [
+        {
+          "id": "4",
+          "name": "Vaazha ",
+          "url": "https://m.media-amazon.com/images/M/MV5BNTM4NWRmNTQtOWI3Ni00ZDVjLWExN2YtZjk5YmY1ZDk2ODAwXkEyXkFqcGc@._V1_.jpg",
+          "link": "https://www.youtube.com/embed/EdsxhVLDLb4"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "categoryName": "Action",
+      "allVideos": [
+        {
+          "id": "5",
+          "name": "Bazooka",
+          "url": "https://i.gadgets360cdn.com/large/bazooka_twitter_mammoothy_1681196882656.jpg",
+          "link": "https://www.youtube.com/embed/ru5Cku2t1JU"
+        }
+      ]
+    },
+    {
+      "categoryName": "Comedy",
+      "allVideos": [
+        {
+          "id": "4",
+          "name": "Vaazha ",
+          "url": "https://m.media-amazon.com/images/M/MV5BNTM4NWRmNTQtOWI3Ni00ZDVjLWExN2YtZjk5YmY1ZDk2ODAwXkEyXkFqcGc@._V1_.jpg",
+          "link": "https://www.youtube.com/embed/EdsxhVLDLb4"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "categoryName": "Drama",
+      "allVideos": [
+        {
+          "id": "6",
+          "name": "Hunt",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4t2Bu9-RkNSfZoRhJy-Pt6Os8M5J0J4Xofg&s",
+          "link": "https://www.youtube.com/embed/DNLqr4mhEWo"
+        }
+      ],
+      "id": 4
+    }
+  ]
 }
